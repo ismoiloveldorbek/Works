@@ -1,0 +1,100 @@
+body{
+    margin: 0px;
+    background-color: white;
+    overflow-x: hidden;
+
+}
+
+.one{
+    width: 100%;
+    height: 300px;
+    background-image: url("/imgs/intro-bg.png");
+    background-size: cover;
+}
+
+
+.two{
+    margin: 0px;
+    font-size: 15px; 
+    border: 1px white;
+}
+
+.third{
+    background-color: #ECF5FF;
+    width: 100%px;
+    height: 400px;
+    border: 1px solid #ECF5FF;
+    box-shadow: -1px -1px 2px -1px rgb(201, 195, 195) ;
+}
+
+.four{
+    background-color: white;
+    width: 300px;
+    height: 100px;
+    border: 1px solid white;
+    box-shadow: 1px 1px 1px 1px rgb(194, 186, 186);
+    margin: 5px 25px;
+    border-radius: 7px;
+}
+
+.five{
+    background-color: white;
+    width: 300px;
+    height: 100px;
+    border: 1px solid white;
+    box-shadow: 1px 1px 1px 1px rgb(194, 186, 186);
+    margin: 5px 25px;
+    border-radius: 7px;
+}
+
+.six{
+    background-color: white;
+    width: 300px;
+    height: 100px;
+    border: 1px solid white;
+    box-shadow: 1px 1px 1px 1px rgb(194, 186, 186);
+    margin: 5px 25px;
+    border-radius: 7px;
+}
+
+.seven{
+    background-color: white;
+    width: 300px;
+    height: 100px;
+    border: 1px solid white;
+    box-shadow: 1px 1px 1px 1px rgb(194, 186, 186);
+    margin: 5px 25px;
+    border-radius: 7px;
+}
+
+.eight{
+    background-color: white;
+    width: 300px;
+    height: 100px;
+    border: 1px solid white;
+    box-shadow: 1px 1px 1px 1px rgb(194, 186, 186);
+    margin: 5px 25px;
+    border-radius: 7px;
+}
+
+.nine{
+    background-color: white;
+    width: 300px;
+    height: 100px;
+    border: 1px solid white;
+    box-shadow: 1px 1px 1px 1px rgb(194, 186, 186);
+    margin: 5px 25px;
+    border-radius: 7px;
+}
+
+.ten{
+    background-color: #004A99;
+    width: 100%;
+    height: 200px;
+}
+
+.besh{
+    width: 100%;
+    height: 35px;
+    background-color:#00428A ;
+}

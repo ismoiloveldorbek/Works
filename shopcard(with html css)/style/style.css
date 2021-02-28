@@ -1,0 +1,36 @@
+body{
+    background-image: url("http://www.allwhitebackground.com/images/7/Multi-Colored-Background-Free-Picture.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0px;
+} 
+div{background-color: white;
+    width: 800px;
+    height: 500px;
+    margin: 200px auto;
+    border: 3px solid white;
+    border-radius: 25px;
+    padding: 25px;
+}
+
+.two{
+width: 100%;
+color:white;
+padding: 15px 0px ;
+border-radius: 10px;
+font-size: 18px;
+background-color: blue; 
+border: 1px blue; 
+}
+.one input {
+    padding: 10px 15px;
+    color: black;
+    border: blue 1px solid;
+    font-size: 15px;
+}
+
+.second{
+    color: blue;
+    font-size: 25px;
+}
+ 
